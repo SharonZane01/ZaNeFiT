@@ -46,15 +46,15 @@
 #local developement
 ---Frontend Setup
 
-cd client
-npm install
-npm run dev
+1.cd client
+2.npm install
+3.npm run dev
 
 ---backend setup
 
-cd server
-npm install
-node server.js
+1.cd server
+2.npm install
+3.node server.js
 
 
 This project is licensed under the MIT License. Feel free to use, modify, and share!
@@ -64,7 +64,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 Thanks to:
 OpenAI
 Railway & Vercel
-The open-source community ❤️
+The amazing open-source community ❤️
 
 
 
