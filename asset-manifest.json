@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e643757.css",
+    "main.js": "/static/js/main.2cd48ef4.js",
+    "static/media/gym-bg.jpg": "/static/media/gym-bg.cef6be31401247d025cb.jpg",
+    "static/media/training.webp": "/static/media/training.e147da8cf6ac451e2645.webp",
+    "static/media/diet.webp": "/static/media/diet.f11856e11c5d4b214426.webp",
+    "static/media/progress.webp": "/static/media/progress.fd9bf68ef79766c1b959.webp",
+    "static/media/equipment.webp": "/static/media/equipment.c5a52c86692ea2ed045f.webp",
+    "index.html": "/index.html",
+    "main.6e643757.css.map": "/static/css/main.6e643757.css.map",
+    "main.2cd48ef4.js.map": "/static/js/main.2cd48ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e643757.css",
+    "static/js/main.2cd48ef4.js"
+  ]
+}
