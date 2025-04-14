@@ -1,4 +1,3 @@
+
 User-agent: *
 Disallow:
-
-Sitemap: https://zane-fit.vercel.app/sitemap.xml
