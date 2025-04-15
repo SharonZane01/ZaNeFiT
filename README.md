@@ -43,20 +43,6 @@
 
 ---
 
-#local developement
----Frontend Setup
-
-1.cd client
-2.npm install
-3.npm run dev
-
----backend setup
-
-1.cd server
-2.npm install
-3.node server.js
-
-
 This project is licensed under the MIT License. Feel free to use, modify, and share!
 
 🙌 Acknowledgements
