@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f20ec7a.css",
-    "main.js": "/static/js/main.da9e2b23.js",
+    "main.css": "/static/css/main.d80480fd.css",
+    "main.js": "/static/js/main.bbfbafed.js",
     "static/media/gym-bg.jpg": "/static/media/gym-bg.cef6be31401247d025cb.jpg",
     "static/media/training.webp": "/static/media/training.e147da8cf6ac451e2645.webp",
     "static/media/diet.webp": "/static/media/diet.f11856e11c5d4b214426.webp",
@@ -9,11 +9,11 @@
     "static/media/progress.webp": "/static/media/progress.fd9bf68ef79766c1b959.webp",
     "static/media/equipment.webp": "/static/media/equipment.c5a52c86692ea2ed045f.webp",
     "index.html": "/index.html",
-    "main.2f20ec7a.css.map": "/static/css/main.2f20ec7a.css.map",
-    "main.da9e2b23.js.map": "/static/js/main.da9e2b23.js.map"
+    "main.d80480fd.css.map": "/static/css/main.d80480fd.css.map",
+    "main.bbfbafed.js.map": "/static/js/main.bbfbafed.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f20ec7a.css",
-    "static/js/main.da9e2b23.js"
+    "static/css/main.d80480fd.css",
+    "static/js/main.bbfbafed.js"
   ]
 }
