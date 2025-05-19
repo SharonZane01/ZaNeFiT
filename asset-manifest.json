@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d80480fd.css",
-    "main.js": "/static/js/main.bbfbafed.js",
+    "main.js": "/static/js/main.8d8caac6.js",
     "static/media/gym-bg.jpg": "/static/media/gym-bg.cef6be31401247d025cb.jpg",
     "static/media/training.webp": "/static/media/training.e147da8cf6ac451e2645.webp",
     "static/media/diet.webp": "/static/media/diet.f11856e11c5d4b214426.webp",
@@ -10,10 +10,10 @@
     "static/media/equipment.webp": "/static/media/equipment.c5a52c86692ea2ed045f.webp",
     "index.html": "/index.html",
     "main.d80480fd.css.map": "/static/css/main.d80480fd.css.map",
-    "main.bbfbafed.js.map": "/static/js/main.bbfbafed.js.map"
+    "main.8d8caac6.js.map": "/static/js/main.8d8caac6.js.map"
   },
   "entrypoints": [
     "static/css/main.d80480fd.css",
-    "static/js/main.bbfbafed.js"
+    "static/js/main.8d8caac6.js"
   ]
 }
